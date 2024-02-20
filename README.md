@@ -37,3 +37,6 @@ The environment has to be activated before each use with
 ```
 conda activate tp53loss_wgd
 ```
+## Figures
+
+This folder contains source data and R script to generate Figure 1f and Supplementary Figure 3a
